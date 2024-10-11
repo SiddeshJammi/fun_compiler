@@ -1,5 +1,6 @@
-# CFL CW5
+# Fun Compiler in Scala 
+- The "Fun" language short for functional, is a functional language, similar to scala, it can run basic functional programs, using the LLVM compiler
+- To run the compiler:
+  ``` amm cw05.sc ```
 
-Fifth CW assignment:
-
-* [CW5 description](https://nms.kcl.ac.uk/christian.urban/cfl/cws/cw05.pdf) (Marks 25%, deadline 12 Jan, 16:00)
+  
